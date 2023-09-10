@@ -58,12 +58,12 @@ body{
     margin-top: 30px;
 }
 
-.weacher h1{
+.weather h1{
     font-size: 80px;
     font-weight: 500;
 }
 
-.weacher h2{
+.weather h2{
     font-size: 45px;
     font-weight: 400;
     margin-top: -10px;
@@ -75,4 +75,15 @@ body{
     justify-content: space-between;
     padding: 0 20px;
     margin: 50px;
+}
+
+.col{
+    display: flex;
+    align-items: center;
+    text-align: left;
+}
+
+.col img{
+    width: 40px;
+    margin-right: 10px;
 }
